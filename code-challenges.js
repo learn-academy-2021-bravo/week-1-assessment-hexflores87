@@ -106,6 +106,7 @@ function removeVowels(text):
         if character is vowel 
             remove 
     return text 
+    // added a line
 */
 function removeVowels(text){
     let retval = ""; // return value with not vowels.

@@ -43,7 +43,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Researched answer: Is an agile software development technique in which two programming work together at one workstation. One, the driver, writes code while the other, the observer or navigator reviews each line of code as it is typed in. These roles switch frequently. 
 
-
+// added 
 
 6. What is something we did in class this week you found helpful?  
 

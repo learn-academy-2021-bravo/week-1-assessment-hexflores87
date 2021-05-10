@@ -32,7 +32,7 @@ var index = 1
 console.log(languages[index])
 // a) Your answer: ruby 
 // b) Verify and explain: Arrays start at 0, so index 1 is position 2.
-
+// added a line 
 
 // --------------------4) What will this log?
 var weekendDays = 
